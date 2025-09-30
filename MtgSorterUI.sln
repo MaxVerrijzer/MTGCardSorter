@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MtgSorterUI", "MtgSorterUI\MtgSorterUI.csproj", "{F2F9CDF2-6166-4C80-824F-E9416B953B05}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "magicSorter", "..\magicSorter\magicSorter\magicSorter.csproj", "{D5D32534-BEE7-4D23-862E-31DB3D15B6D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2F9CDF2-6166-4C80-824F-E9416B953B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F9CDF2-6166-4C80-824F-E9416B953B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2F9CDF2-6166-4C80-824F-E9416B953B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2F9CDF2-6166-4C80-824F-E9416B953B05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5D32534-BEE7-4D23-862E-31DB3D15B6D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5D32534-BEE7-4D23-862E-31DB3D15B6D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5D32534-BEE7-4D23-862E-31DB3D15B6D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5D32534-BEE7-4D23-862E-31DB3D15B6D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14D0439C-15DE-4976-8318-F26683C69CE9}
+	EndGlobalSection
+EndGlobal

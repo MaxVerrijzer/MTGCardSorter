@@ -1,0 +1,38 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ww]in32/
+[Ww]in64/
+*.obj
+*.pdb
+*.ipch
+
+# VS/IDE stuff
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Packages (restore at build)
+packages/
+*.nupkg
+
+# Logs / caches
+*.log
+*.cache
+*.ide
+*.ilk
+
+# Rider / ReSharper
+.idea/
+_ReSharper*/
+*.DotSettings.user
+
+# Misc
+*.tmp
+*.DS_Store
+Thumbs.db
+
+# If you have secrets in appsettings.*, ignore them:
+# appsettings.Development.json
